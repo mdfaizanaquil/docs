@@ -1,4 +1,3 @@
----
 id: airdrop-eligibility-distribution
 title: $ARB airdrop eligibility and distribution specifications
 sidebar_label: Airdrop eligibility and distribution
