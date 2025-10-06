@@ -217,6 +217,6 @@ A separate distribution was allocated for DAOs that are building applications in
 You can view the full list of DAOs and their allocations [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSSAzkIIJqw4WGKCF9gXFUkQojTt6weQTExZYmp3YRIR2TUjir9N8nh8xg7gQ2wuPA8mJKL2neL--to/pubhtml).
 
 
-### Vesting and lockup details
+Vesting and lockup details
 
 While the user and DAO airdrops were available at the start of token distribution ([3/23/2023](https://etherscan.io/block/16890400)), all investor and team tokens are subject to 4 year lockups, with the first unlocks happening one year after the [token generation event (3/16/2023)](https://arbiscan.io/tx/0x9cdbb4672b549c26d97cac29f9cd73c1951656e0622ba4b9ed0abff2ee58698d) and then monthly unlocks for the remaining three years. The Arbitrum Foundation's allocation is subject to a lockup that began on 4/17/2023 and linearly unlocks over the course of four years; this is enforced by the [Arbitrum Foundation Vesting Budget Smart Contract Wallet](https://arbiscan.io/address/0x15533b77981cDa0F85c4F9a485237DF4285D6844).
