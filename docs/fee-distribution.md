@@ -1,5 +1,5 @@
 ---
-id: fee-distribution
+id: Fee distribution
 title: Fee Distribution
 sidebar_label: Fee Distribution
 description: Learn how fees collected on DAO-governed chains are distributed
